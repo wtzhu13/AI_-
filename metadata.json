@@ -1,0 +1,7 @@
+{
+  "name": "视娱 面相大师",
+  "description": "基于传统面相学与五行命理的深度分析应用，提供专业批语与通俗解读。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
